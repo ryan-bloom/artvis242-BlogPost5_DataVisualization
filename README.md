@@ -20,5 +20,6 @@ This second piece of artwork, created by Jer Thorp and entitled "Data in an Alie
 Upon further research, it was found that this piece of work represents data regarding the 2327 exoplanets identified by NASA.  It is fascinating how many different data categories Jer Thorp was able to visualize as well as the ways that he did so.  The sizes of each data point were selected based on the planet radius where larger dots represent exoplanets with greater radii.  Then, the colors of the data points vary based on temperature, from red hot to cool blue.  Furthermore, users can interact with this piece zooming in and out, as well as displaying the points on different graphs (both radial and linear) representing various data categories ranging from size, to temperature, to astronomical units.  The user interaction with this piece, as well as the range of data represented, really differentiates it from the work discussed above.  Moving forward, I hope to be able to display a wide range of data categories in unique and interesting ways in my visualization piece as well.  
 
 [Here's a link to the piece](https://vimeo.com/19642643)
+
 [Here's another link to the piece](https://www.ktbyte.com/projects/project/97221/kepler-exoplanets-visualization)
 
