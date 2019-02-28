@@ -13,7 +13,7 @@ After looking deeper into this work and reading about its purpose and the data t
 
 ### Art Piece 2
 ![Jer Thorp](images/Kepler_Vis_1.JPG?raw=true "Jer Thorp")
-![Jer Thorp](images/Kepler_Vis_2.JPS?raw=true "Jer Thorp")
+![Jer Thorp](images/Kepler_Vis_2.JPG?raw=true "Jer Thorp")
 
 This second piece of artwork, created by Jer Thorp and entitled "Data in an Alien Context: Kepler Visualization," caught my eye for a different reason than the artwork discussed above.  This piece portrays bright and vibrant colors on a black background, which allows these shapes and colors to truly pop off the screen.  Furthermore, the massive quantity of data points in thiis piece made me curious about what they represented, and how their colors and sizes were determined.  This piece was created and released in 2012.
 
